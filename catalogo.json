@@ -40,6 +40,19 @@
       ],
       "actualizado": "2026-11-04",
       "tamanoMb": 8.4
+    },
+    {
+      "paquete": "com.almeria53.cambio53",
+      "nombre": "Cambio 53",
+      "corta": "Comprueba tu devolución",
+      "descripcion": "introduce el precio de tu carrera y tambien el dinero que te dan y veras el cambio qie tienes que devolver",
+      "version": "1.0",
+      "codigo": 1,
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.cambio53.apk",
+      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.cambio53/icono.png",
+      "capturas": [],
+      "actualizado": "2026-11-04",
+      "tamanoMb": 7.5
     }
   ]
 }
