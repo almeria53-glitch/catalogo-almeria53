@@ -75,7 +75,7 @@
       "paquete": "com.juancarlos.facturas",
       "nombre": "Factura Taxi",
       "corta": "Contacta Con el 53 para obtener la clave",
-      "descripcion": "una vez puestos tus datos sólo tienes que poner los datos del cliente y precio el iva ya va incluido",
+      "descripcion": "contactar con 53 para obtener la clave. esta app va con el iva al 10% incluido. tse configura la primera vez  y despues sólo añadir datos cliente y servicio con su precio y listo.",
       "version": "1.0",
       "codigo": 1,
       "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.juancarlos.facturas.apk",
