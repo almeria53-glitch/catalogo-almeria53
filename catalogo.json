@@ -12,6 +12,19 @@
       "capturas": [],
       "actualizado": "2026-11-04",
       "tamanoMb": 0
+    },
+    {
+      "paquete": "es.almeria53.mismedicinas",
+      "nombre": "y",
+      "corta": "tus medicamentos sin que nadie los controle, no hay internet",
+      "descripcion": "con esta app puedes tener el control de tus pastillas para que no se te olvide tomarlas no esta en internet la app es limpoa y nadie conoce los medicamentos que  tomas",
+      "version": "1.1",
+      "codigo": 2,
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/es.almeria53.mismedicinas.apk",
+      "icono": "",
+      "capturas": [],
+      "actualizado": "2026-11-04",
+      "tamanoMb": 0.1
     }
   ]
 }
