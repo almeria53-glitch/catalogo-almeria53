@@ -70,6 +70,21 @@
       ],
       "actualizado": "2026-11-04",
       "tamanoMb": 10.4
+    },
+    {
+      "paquete": "com.almeria53.gasolinera53",
+      "nombre": "Gasolinera 53",
+      "corta": "Busca Precio",
+      "descripcion": "Aquí tienes los precios de los combustibles y las gasolineras mas cercanas,puedes buscar por tu marca preferida",
+      "version": "1.0",
+      "codigo": 1,
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.gasolinera53.apk",
+      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.gasolinera53/icono.png",
+      "capturas": [
+        "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.gasolinera53/captura1.png"
+      ],
+      "actualizado": "2026-11-04",
+      "tamanoMb": 0.0
     }
   ]
 }
