@@ -74,7 +74,7 @@
     {
       "paquete": "com.juancarlos.facturas",
       "nombre": "Factura Taxi",
-      "corta": "Factura Rapidamente",
+      "corta": "Contacta Con el 53 para obtener la clave",
       "descripcion": "Con esta factura una vez puestos tu datos sólo tendrás que poner los datos del cliente y el recorrido y oprecio lo demás va en automárico",
       "version": "1.0",
       "codigo": 1,
