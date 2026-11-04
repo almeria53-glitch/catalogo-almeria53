@@ -25,6 +25,19 @@
       "capturas": [],
       "actualizado": "2026-11-04",
       "tamanoMb": 0.1
+    },
+    {
+      "paquete": "com.almeria53.tarifastaxi",
+      "nombre": "Tarifas Taxi 53",
+      "corta": "Tarifas de Carretera",
+      "descripcion": "todas las tarifas de carretera de Almería más utilizadas de una manera rapida y eficaz",
+      "version": "1.1",
+      "codigo": 2,
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.tarifastaxi.apk",
+      "icono": "",
+      "capturas": [],
+      "actualizado": "2026-11-04",
+      "tamanoMb": 8.4
     }
   ]
 }
