@@ -98,6 +98,19 @@
       "capturas": [],
       "actualizado": "2026-11-05",
       "tamanoMb": 8.5
+    },
+    {
+      "paquete": "com.almeria53.mitaxi",
+      "nombre": "Mi Taxi",
+      "corta": "",
+      "descripcion": "",
+      "version": "1.3",
+      "codigo": 4,
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.mitaxi.apk",
+      "icono": "",
+      "capturas": [],
+      "actualizado": "2026-11-05",
+      "tamanoMb": 6.9
     }
   ]
 }
