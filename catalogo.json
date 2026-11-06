@@ -1,19 +1,6 @@
 {
   "apps": [
     {
-      "paquete": "com.almeria53.pdffacil53",
-      "nombre": "PDF Fácil 53",
-      "corta": "Lee, junta, separa y firma tus PDF",
-      "descripcion": "Abre un PDF una sola vez y tenlo todo ahí mismo: leer deslizando de lado o seguido hacia abajo, separar páginas, juntar varios PDF, escribir encima y firmar. Con modo noche y sin gastar batería.",
-      "version": "1.2",
-      "codigo": 3,
-      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.pdffacil53.apk",
-      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.pdffacil53/icono.png",
-      "capturas": [],
-      "actualizado": "2026-11-06",
-      "tamanoMb": 16.5
-    },
-    {
       "paquete": "es.almeria53.mismedicinas",
       "nombre": "Mis Medicinas",
       "corta": "Controla tus medicamentos",
