@@ -98,6 +98,19 @@
       "capturas": [],
       "actualizado": "2026-11-05",
       "tamanoMb": 6.9
+    },
+    {
+      "paquete": "com.almeria53.pdffacil53",
+      "nombre": "PDF Facil 53",
+      "corta": "",
+      "descripcion": "",
+      "version": "1.2",
+      "codigo": 3,
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.pdffacil53.apk",
+      "icono": "",
+      "capturas": [],
+      "actualizado": "2026-11-06",
+      "tamanoMb": 16.5
     }
   ]
 }
