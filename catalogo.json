@@ -117,7 +117,7 @@
     {
       "paquete": "es.radar53",
       "nombre": "Taxi Radar",
-      "corta": "Radares menos barcelona y vascongadas",
+      "corta": "Fase Prueba Beta",
       "descripcion": "aviso de radares y tambien podemos avisar de los problemas de trafico",
       "version": "2.0",
       "codigo": 2,
