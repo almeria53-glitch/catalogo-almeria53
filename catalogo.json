@@ -56,7 +56,7 @@
         "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.gasolinera53/captura1.png"
       ],
       "actualizado": "2026-11-04",
-      "tamanoMb": 0.0
+      "tamanoMb": 0
     },
     {
       "paquete": "com.juancarlos.facturas",
@@ -71,7 +71,7 @@
         "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.juancarlos.facturas/captura1.png"
       ],
       "actualizado": "2026-11-04",
-      "tamanoMb": 0.0
+      "tamanoMb": 0
     },
     {
       "paquete": "com.almeria53.carreras53",
@@ -118,11 +118,11 @@
       "paquete": "es.radar53",
       "nombre": "Taxi Radar",
       "corta": "Radares menos barcelona y vascongadas",
-      "descripcion": "aviso de radares y tambien podemos avisar de los pproblemas de trafico",
+      "descripcion": "aviso de radares y tambien podemos avisar de los problemas de trafico",
       "version": "2.0",
       "codigo": 2,
       "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/es.radar53.apk",
-      "icono": "",
+      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/es.radar53/icono.png",
       "capturas": [],
       "actualizado": "2026-11-19",
       "tamanoMb": 6.1
