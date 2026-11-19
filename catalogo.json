@@ -113,6 +113,19 @@
       ],
       "actualizado": "2026-11-08",
       "tamanoMb": 25.3
+    },
+    {
+      "paquete": "es.radar53",
+      "nombre": "Taxi Radar",
+      "corta": "Radares menos barcelona y vascongadas",
+      "descripcion": "aviso de radares y tambien podemos avisar de los pproblemas de trafico",
+      "version": "2.0",
+      "codigo": 2,
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/es.radar53.apk",
+      "icono": "",
+      "capturas": [],
+      "actualizado": "2026-11-19",
+      "tamanoMb": 6.1
     }
   ]
 }
