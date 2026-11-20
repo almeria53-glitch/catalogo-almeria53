@@ -119,13 +119,13 @@
       "nombre": "Taxi Radar",
       "corta": "Fase Prueba Beta",
       "descripcion": "aviso de radares y tambien podemos avisar de los problemas de trafico",
-      "version": "3.0",
-      "codigo": 3,
+      "version": "4.0",
+      "codigo": 4,
       "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/es.radar53.apk",
       "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/es.radar53/icono.png",
       "capturas": [],
       "actualizado": "2026-11-20",
-      "tamanoMb": 6.1
+      "tamanoMb": 6.4
     }
   ]
 }
