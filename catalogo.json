@@ -152,6 +152,21 @@
       "tamanoMb": 11.3,
       "actualizado": "2026-11-21",
       "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/es.kitutil/icono_1795283009281.png"
+    },
+    {
+      "paquete": "com.almeria53.taxikm",
+      "nombre": "Calculadora de Precios",
+      "corta": "Rápido",
+      "descripcion": "si no encuentras la localidad en las tarifas y no quieres hacer cuentas, con ésta app metes los kilómetros y te da el precio en automático.",
+      "capturas": [
+        "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.taxikm/captura_1795291345646_0.jpg"
+      ],
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.taxikm.apk",
+      "version": "2.1",
+      "codigo": 3,
+      "tamanoMb": 0.6,
+      "actualizado": "2026-11-21",
+      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.taxikm/icono_1795291345646.png"
     }
   ],
   "frase": "Todas las apps son nuevas y se irán actualizando con nuevas funcionalidades y/o mejoras que entre todos hagamos."
