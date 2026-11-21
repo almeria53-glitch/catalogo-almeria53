@@ -125,6 +125,19 @@
       "capturas": [],
       "actualizado": "2026-11-20",
       "tamanoMb": 6.4
+    },
+    {
+      "paquete": "com.almeria53.aquiestoy",
+      "nombre": "Aquí Estoy",
+      "corta": "que no se te olvide",
+      "descripcion": "vas a un lugar y tienes que coger algo y se te olvida y cuando llegas a casa te acuerdas con esta app podrás poner un aviso para cuando llegues al lugar adecuado y no se te olvide recoger o hacer un mandado",
+      "capturas": [],
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.aquiestoy.apk",
+      "version": "1.2",
+      "codigo": 5,
+      "tamanoMb": 1.3,
+      "actualizado": "2026-11-21",
+      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.aquiestoy/icono_1795249393326.png"
     }
   ],
   "frase": "Todas las apps son nuevas y se irán actualizando con nuevas funcionalidades y/o mejoras que entre todos hagamos."
