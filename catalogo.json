@@ -167,6 +167,21 @@
       "tamanoMb": 0.6,
       "actualizado": "2026-11-21",
       "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.taxikm/icono_1795291345646.png"
+    },
+    {
+      "paquete": "es.rutaporalmeria",
+      "nombre": "Ruta por Almería",
+      "corta": "Ruta Turística",
+      "descripcion": "para iniciar seleccionar idioma. puedes pausar saltar y probar. FIJAR AQUÍ si pulsas se guardan las coordenadas del GPS para posicionar tú ubicación junto al lugar indicado.\nTiene CLAVE HAY QUE SOLICITARLA",
+      "capturas": [
+        "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/es.rutaporalmeria/captura_1795415446128_0.jpg"
+      ],
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/es.rutaporalmeria.apk",
+      "version": "1.5",
+      "codigo": 6,
+      "tamanoMb": 23.4,
+      "actualizado": "2026-11-23",
+      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/es.rutaporalmeria/icono_1795415446128.png"
     }
   ],
   "frase": "Todas las apps son nuevas y se irán actualizando con nuevas funcionalidades y/o mejoras que entre todos hagamos."
