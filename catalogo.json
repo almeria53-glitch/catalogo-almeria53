@@ -197,6 +197,19 @@
       "tamanoMb": 1,
       "actualizado": "2026-11-26",
       "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/es.almeria53.reglamento/icono_1795716669952.png"
+    },
+    {
+      "paquete": "com.almeria53.store",
+      "nombre": "Store Almería 53",
+      "corta": "actualiza",
+      "descripcion": "",
+      "capturas": [],
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/com.almeria53.store.apk",
+      "version": "1.5",
+      "codigo": 6,
+      "tamanoMb": 12.3,
+      "actualizado": "2026-11-26",
+      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/com.almeria53.store/icono_1795720930091.png"
     }
   ],
   "frase": "Todas las apps son nuevas y se irán actualizando con nuevas funcionalidades y/o mejoras que entre todos hagamos."
