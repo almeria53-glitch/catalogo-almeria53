@@ -184,6 +184,19 @@
       "tamanoMb": 23.4,
       "actualizado": "2026-11-23",
       "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/es.rutaporalmeria/icono_1795415446128.png"
+    },
+    {
+      "paquete": "es.almeria53.reglamento",
+      "nombre": "R&T Almería",
+      "corta": "Reglamentos y Tarifas",
+      "descripcion": "todos los reglamentos y tarifas oficiales y más en una aplicación. rápido y sencillo",
+      "capturas": [],
+      "apk": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/apks/es.almeria53.reglamento.apk",
+      "version": "1.0",
+      "codigo": 1,
+      "tamanoMb": 1,
+      "actualizado": "2026-11-26",
+      "icono": "https://raw.githubusercontent.com/almeria53-glitch/catalogo-almeria53/main/imagenes/es.almeria53.reglamento/icono_1795716667709.png"
     }
   ],
   "frase": "Todas las apps son nuevas y se irán actualizando con nuevas funcionalidades y/o mejoras que entre todos hagamos."
